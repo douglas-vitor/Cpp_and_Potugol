@@ -1,2 +1,2 @@
-# Cpp_and_Potugol
-Códigos e exercicios desenvolvidos no aprendizado.
+# C++ and Portugol
+Códigos e algoritimos de exercicios desenvolvidos no aprendizado.
